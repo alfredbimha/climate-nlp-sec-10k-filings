@@ -1,0 +1,11 @@
+ticker,name,sector,filing_date,total_words,climate_mentions,density_per_10k,top_keywords
+CVX,Chevron,Energy,2026-02-24,65427,220,33.63,carbon(80); environmental(47); climate change(31); ghg emissions(20); esg(16)
+XOM,ExxonMobil,Energy,2026-02-18,65596,185,28.2,carbon(71); greenhouse gas(33); environmental(23); net zero(13); net-zero(13)
+NEE,NextEra,Utilities,2026-02-13,66046,125,18.93,environmental(50); clean energy(46); esg(9); greenhouse gas(7); renewable energy(7)
+BAC,BankOfAmerica,Financials,2026-02-25,40910,39,9.53,climate-related(9); sustainability(5); environmental(5); extreme weather(5); esg(4)
+JPM,JPMorgan,Financials,2026-02-13,47545,26,5.47,esg(8); climate change(5); sustainability(5); carbon(3); transition risk(2)
+MSFT,Microsoft,Technology,2025-07-30,58710,22,3.75,sustainability(8); environmental(8); climate change(2); carbon(2); greenhouse gas(1)
+CAT,Caterpillar,Industrials,2026-02-13,60640,22,3.63,environmental(18); climate change(2); greenhouse gas(2)
+JNJ,J&J,Healthcare,2026-02-11,64393,19,2.95,climate change(6); environmental(4); extreme weather(3); greenhouse gas(2); sustainability(2)
+TSLA,Tesla,Auto/EV,2026-01-29,63033,18,2.86,environmental(6); renewable energy(4); clean energy(4); climate change(2); carbon(1)
+AAPL,Apple,Technology,2025-10-31,32742,7,2.14,environmental(4); climate change(2); extreme weather(1)
